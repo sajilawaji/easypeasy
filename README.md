@@ -1,2 +1,2 @@
 # easy-peasy
-I am aiming to showcase past projects in efforts to land an internship with a cool company.
+I am aiming to showcase past projects using HTML, JavaScript and CSS.
